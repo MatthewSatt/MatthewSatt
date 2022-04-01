@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a passionate software engineer and I enjoy creating responsive and interacitve websites that using technologies like HTML, CSS3, Grids, JavaScript, and Python. Additionally, I enjoy following the path laid out by backend routes, problem-solving, and finding the source of a bug.
+I am a passionate software engineer and I enjoy creating responsive and interacitve websites that use technologies like HTML, React, CSS3, JavaScript, and Python. Additionally, I enjoy following the path laid out by backend routes and finding the source of a bug.
 
 - 👨🏻‍💻 I’m currently attending App Academy to sharpen my skills.
 
