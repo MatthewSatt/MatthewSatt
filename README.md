@@ -2,7 +2,7 @@
 
 Hello! My name is Matthew Satterwhite and I am a software developer with experience in designing and creating complex web applications using Javascript, React, Redux, Python, Express.js, Flask, and PostgreSQL. I've always enjoyed solving tricky problems and bringing designs to life through code.
 
-- 👨🏻‍💻 I’m currently attending App Academy to sharpen my skills.
+- 👨🏻‍💻 I’m currently working on an Amazon clone.
 
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/matthew-satterwhite-008970211/)
 
