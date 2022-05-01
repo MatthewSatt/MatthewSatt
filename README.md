@@ -11,7 +11,7 @@
   
  <h1>Welcome to My Github 👋 </h1>
  
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=code-rina.visitor-badge)
+<!--  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=code-rina.visitor-badge) -->
  
 </div>
 
