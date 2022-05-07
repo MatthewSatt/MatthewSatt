@@ -16,9 +16,16 @@
 </div>
 
 <div>
-            <h1>About Me </h1>
+            <h1 align="center">About Me </h1>
+ <div align="center">
+ 
   Hello! My name is Matthew Satterwhite and I am a software developer with experience in designing and creating complex web applications using Javascript, React, Redux, Python, Express.js, Flask, and PostgreSQL. I've always enjoyed solving tricky problems and bringing designs to life through code.
-            </div>
+  
+   </div>
+ 
+</div>
+
+<div align="center">
 
  <div align='center'>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -45,12 +52,14 @@
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewSatt&show_icons=true&theme=radical)
  
-
-<!-- ### Projects
+<!-- 
+### Projects
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=code-rina&repo=Travelgram&theme=gotham&card_width=500)](https://github.com/Code-rina/Travelgram)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbyri97&repo=moodify_gp10&&count_private=true&include_all_commits=true&theme=gotham&card_width=500)](https://github.com/sbyri97/moodify_gp10)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=code-rina&repo=BnB_SF-Week_16_Solo_Project&theme=gotham&card_width=100)](https://github.com/code-rina/BnB_SF-Week_16_Solo_Project)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrandonCope&repo=g13_goodMovies&&count_private=true&include_all_commits=true&theme=gotham&card_width=100)](https://github.com/BrandonCope/g13_goodMovies) -->
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrandonCope&repo=g13_goodMovies&&count_private=true&include_all_commits=true&theme=gotham&card_width=100)](https://github.com/BrandonCope/g13_goodMovies)
+  -->
+ </div>
 
 - 📫 How to reach me: MatthewSatterwhiteMs@gmail.com
