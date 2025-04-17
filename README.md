@@ -1,65 +1,103 @@
-
-<!-- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewSatt&show_icons=true&theme=radical)
- -->
-
-<div align='center'>
- <a href="https://www.linkedin.com/in/matthew-satterwhite-008970211/">
-   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
- </img>
- </a>
+<!-- Header with animated greeting -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+I'm+Matthew+Satterwhite;Software+Developer;Problem+Solver;Creative+Coder" alt="Typing SVG" />
   
- <h1>Welcome to My Github 👋 </h1>
- 
-<!--  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=code-rina.visitor-badge) -->
- 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-satterwhite-008970211/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MatthewSatterwhiteMs@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatthewSatt)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=MatthewSatt&color=brightgreen&style=flat-square&label=Profile+Views)
 </div>
 
-<div>
-            <h1 align="center">About Me </h1>
- <div align="center">
- 
-  Hello! My name is Matthew Satterwhite and I am a software developer with experience in designing and creating complex web applications using Javascript, React, Redux, Python, Express.js, Flask, and PostgreSQL. I've always enjoyed solving tricky problems and bringing designs to life through code.
+---
+
+## 👨‍💻 About Me
+
+<div align="left">
+  <p>Software developer with a passion for creating responsive, intuitive web applications. I specialize in building full-stack solutions using modern JavaScript frameworks and Python backends.</p>
   
-   </div>
- 
+  <p>I love tackling complex problems and transforming ideas into functional code. My background in problem-solving helps me approach development challenges with creativity and precision.</p>
+
+  - 🔭 I'm currently working on **expanding my portfolio with React/Redux applications**
+  - 🌱 I'm learning **TypeScript** and **AWS cloud architecture**
+  - 💬 Ask me about **JavaScript, React, Python, and full-stack development**
 </div>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
- <div align='center'>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;           
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;        
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PSQL" alt="PSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="mongodb" width="40" height="40"/>&nbsp;     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
-              <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
+  ### Frontend
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  
+  ### Backend
+  ![Go](https://img.shields.io/badge/golang-000000?style=for-the-badge&logo=go&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  
+  ### Database
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  
+  ### Tools & Deployment
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 </div>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/MatthewSatt">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatthewSatt&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewSatt&layout=compact&langs_count=8&theme=radical"/>
+  </a>
 </div>
 
-### Github Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatthewSatt&theme=radical" alt="Matthew's Github Streak Stats">
+</div>
 
-<p>
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewSatt&show_icons=true&theme=radical)
- 
-<!-- 
-### Projects
+---
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=code-rina&repo=Travelgram&theme=gotham&card_width=500)](https://github.com/Code-rina/Travelgram)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sbyri97&repo=moodify_gp10&&count_private=true&include_all_commits=true&theme=gotham&card_width=500)](https://github.com/sbyri97/moodify_gp10)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=code-rina&repo=BnB_SF-Week_16_Solo_Project&theme=gotham&card_width=100)](https://github.com/code-rina/BnB_SF-Week_16_Solo_Project)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrandonCope&repo=g13_goodMovies&&count_private=true&include_all_commits=true&theme=gotham&card_width=100)](https://github.com/BrandonCope/g13_goodMovies)
-  -->
- </div>
+## 🚀 Featured Projects
 
-- 📫 How to reach me: MatthewSatterwhiteMs@gmail.com
+<div align="center">
+  <a href="https://github.com/MatthewSatt/project1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatthewSatt&repo=project1&theme=radical" />
+  </a>
+  <a href="https://github.com/MatthewSatt/project2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatthewSatt&repo=project2&theme=radical" />
+  </a>
+</div>
+
+<div align="center">
+  <!-- Note: You can add your actual project repos here -->
+  <p>Replace 'project1' and 'project2' with the names of your actual repositories</p>
+</div>
+
+---
+
+## 📫 Connect With Me
+
+- 💼 **LinkedIn:** [Matthew Satterwhite](https://www.linkedin.com/in/matthew-satterwhite-008970211/)
+- 📧 **Email:** [MatthewSatterwhiteMs@gmail.com](mailto:MatthewSatterwhiteMs@gmail.com)
+- 🌐 **Portfolio:** [Your Portfolio Website URL]
+
+---
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+</div>
