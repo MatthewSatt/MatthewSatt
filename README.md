@@ -75,8 +75,6 @@
 
 - 💼 **LinkedIn:** [Matthew Satterwhite](https://www.linkedin.com/in/matthew-satterwhite-008970211/)
 - 📧 **Email:** [MatthewSatterwhiteMs@gmail.com](mailto:MatthewSatterwhiteMs@gmail.com)
-- 🌐 **Portfolio:** [Your Portfolio Website URL]
-
 ---
 
 <div align="center">
