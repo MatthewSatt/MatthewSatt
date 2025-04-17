@@ -59,7 +59,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/MatthewSatt">
+  <a href="https://github.com/MatthewSatt/Amazon_clone.git">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatthewSatt&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewSatt&layout=compact&langs_count=8&theme=radical"/>
   </a>
@@ -67,24 +67,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatthewSatt&theme=radical" alt="Matthew's Github Streak Stats">
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/MatthewSatt/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatthewSatt&repo=project1&theme=radical" />
-  </a>
-  <a href="https://github.com/MatthewSatt/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatthewSatt&repo=project2&theme=radical" />
-  </a>
-</div>
-
-<div align="center">
-  <!-- Note: You can add your actual project repos here -->
-  <p>Replace 'project1' and 'project2' with the names of your actual repositories</p>
 </div>
 
 ---
