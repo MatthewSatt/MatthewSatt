@@ -1,6 +1,6 @@
 <!-- Header with animated greeting -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+I'm+Matthew+Satterwhite;Software+Developer;Problem+Solver;Creative+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+I'm+Matthew+Satterwhite;Software+Developer;Problem+Solver;Master+Software+Engineer" alt="Typing SVG" />
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-satterwhite-008970211/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MatthewSatterwhiteMs@gmail.com)
